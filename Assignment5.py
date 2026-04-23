@@ -1,8 +1,8 @@
 # Program Name: Assignment5.py
 # Course: IT3883/Section XXX
-# Student Name: Joseph Tarach
+# Student Name: 
 # Assignment Number: Lab 5
-# Due Date: XX/XX/20XX
+# Due Date: XX/XX/2026
 # Purpose:
 # This program reads temperature data from a file, stores it in a SQLite database,
 # and calculates the average temperature for Sunday and Thursday.
